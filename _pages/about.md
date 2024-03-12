@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2023/24 job market candidate in economics at the University of Michigan, Ann Arbor.
+ I am currently a PhD student in the Department of Economics at the University of
+ Michigan. My research interests are in development and environmental economics.
 
-My research focuses on economic development. I work on the impact of climate change on firms and trade, as well as the effect of information frictions on supply chains and consumer welfare. I use reduced-form and machine learning methods to identify causal relationships combined with structural models from trade and IO to understand equilibrium and policy implications.
+ I previously worked as a research analyst at the Global Poverty Research Lab at
+ Northwestern University, and I completed my undergraduate studies at the University of
+ Notre Dame in 2021
 
-**Fields**: Development Economics, Environmental Economics; Trade/Industrial Organization
-
-I am a German citizen and considering positions globally, including in the US, Canada and Europe.
+**Fields**: Development Economics, Environmental Economics
