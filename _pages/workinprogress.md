@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Work In Progress"
 permalink: /workinprogress/
 author_profile: true
 
