@@ -3,14 +3,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Teaching"
+  - title: "Experience"
     url: /teaching/    
-        
-  - title: "Code"
-    url: /code/
     
-  - title: "CV"
-    url: /files/max_huppertz_cv.pdf
+  - title: "My CV"
+    url: /files/my_cv.pdf
 
-  - title: "Job market paper"
-    url : /files/max_huppertz_jmp.pdf
+  - title: "Work in Progress"
+    url : /#/
