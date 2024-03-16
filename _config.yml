@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mika Inoue"
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "headshot_03152024.jpg"
   bio              : "Development & Environmental Economics; Trade/IO"
   location         : #"Ann Arbor, Michigan"
   employer         : #"University of Michigan, Ann Arbor"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : mika
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
