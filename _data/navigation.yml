@@ -5,10 +5,6 @@ main:
 
   - title: "Experience"
     url: /teaching/    
-
-  - title: "Work in Progress"
-    url : /workinprogress/
-
     
   - title: "My CV"
     url: /files/mycv.pdf
