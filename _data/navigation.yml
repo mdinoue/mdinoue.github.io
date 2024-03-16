@@ -7,7 +7,7 @@ main:
     url: /teaching/    
     
   - title: "My CV"
-    url: /files/my_cv.pdf
+    url: /files/mycv.pdf
 
   - title: "Work in Progress"
     url : /#/
