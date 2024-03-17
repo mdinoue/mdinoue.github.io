@@ -24,6 +24,6 @@ author_profile: true
 
 ## Work in progress
 
-**Returns To Returning: Returning Migrant Type and Industrial Growth -*With Saheel Chodavadia*.**
+**Returns To Returning: Returning Migrant Type and Industrial Growth -<small>*With Saheel Chodavadia*</small>.**
 
 ## Publications
