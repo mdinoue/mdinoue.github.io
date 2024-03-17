@@ -16,6 +16,8 @@ redirect_from:
 
 **Fields**: Development Economics, Environmental Economics
 
+Learn more about:
+
   - [Department of Economics](https://lsa.umich.edu/econ/about.html)
   - [Global Poverty Research Lab](https://www.kellogg.northwestern.edu/research/global-poverty-research-lab.aspx)
 
