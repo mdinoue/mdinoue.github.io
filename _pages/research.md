@@ -11,7 +11,7 @@ author_profile: true
 
 **BA Honors Thesis**
 
- Abstract: Excessive pumping of groundwater has become a greater issue over the years.
+ **Abstract:** Excessive pumping of groundwater has become a greater issue over the years.
  Previous economic literature on the topic has resulted in the underestimation of the cost
  of groundwater pumping due to a lack of integration with an accurate hydrological model.
  As researchers and policymakers alike have come to understand the large externality
