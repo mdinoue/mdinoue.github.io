@@ -14,7 +14,7 @@ redirect_from:
  Northwestern University, and I completed my undergraduate studies at the University of
  Notre Dame in 2021
 
-**Fields**: Development Economics, Environmental Economics
+**Fields**: Development & Environmental Economics
 
 Learn more about:
 
