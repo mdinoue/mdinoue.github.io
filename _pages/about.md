@@ -15,3 +15,9 @@ redirect_from:
  Notre Dame in 2021
 
 **Fields**: Development Economics, Environmental Economics
+
+  - Link for Department of Economics:
+ https://lsa.umich.edu/econ/about.html
+  - Linkfor Global Poverty Research Lab:
+ https://www.kellogg.northwestern.edu/research/global-poverty-research-lab.aspx
+
