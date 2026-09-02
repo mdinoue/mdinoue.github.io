@@ -24,6 +24,9 @@ author_profile: true
 
 ## Work in progress
 
-**Returns To Returning: Returning Migrant Type and Industrial Growth -<small>*With Saheel Chodavadia*</small>.**
+**Using a Discounted Hour to Extend Healthcare Access to the Underserved -<small>*With Isabelle Cohen, Rebecca Dizon-Ross, Seema Jayachandran, and Fiker Negash*</small>.**
+**Spatial search and gender gaps in online labor markets (third year paper, draft available upon request)**
+**Empire by Design: American Social Engineering and Philippine Development -<small>*With JC Punongbayan (UP Diliman), Yuqing Wang (Michigan) and Dean Yang (Michigan)*</small>.**
+**Corruption Norm Diffusion and Migration -<small>*With Mike Feng (Vanderbilt)*</small>.**
 
 ## Publications
