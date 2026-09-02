@@ -25,7 +25,7 @@ author_profile: true
 ## Work in progress
 
 **Using a Discounted Hour to Extend Healthcare Access to the Underserved**  
-<small>*With Isabelle Cohen, Rebecca Dizon-Ross, Seema Jayachandran, and Fiker Negash.*</small>
+<small>*With Isabelle Cohen (University of Washington), Rebecca Dizon-Ross (Michigan), Seema Jayachandran (Princeton), and Fiker Negash (Harvard).*</small>
 
 **Spatial Search and Gender Gaps in Online Labor Markets**  
 <small>*Third-year paper; draft available upon request.*</small>
